@@ -6,4 +6,9 @@ feature 'Visit the home page' do
     expect(page).to have_content 'Hello World'
   end
 
+  scenario 'Privacy' do
+
+
+  scenario 'Terms'
+
 end
