@@ -5,4 +5,9 @@ feature 'Visit the home page' do
     visit '/'
     expect(page).to have_content 'Image'
   end
+
+  scenario 'Upload Successful'
+
+  scenario 'Show the image'
+
 end

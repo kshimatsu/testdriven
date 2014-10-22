@@ -7,8 +7,9 @@ feature 'Visit the home page' do
   end
 
   scenario 'Privacy' do
+  end
 
-
-  scenario 'Terms'
+  scenario 'Terms' do
+  end
 
 end
