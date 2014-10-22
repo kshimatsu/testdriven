@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :food_items
+
   # get 'welcome/index' dont need this since we activiated root line 8
 
   # The priority is based upon order of creation: first created -> highest priority.
